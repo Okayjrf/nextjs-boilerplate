@@ -47,7 +47,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-          About Me <span>-&gt;</span>
+          About Me 
           </h2>
           <p>Learn more about who I am and how I got here.</p>
         </a>
@@ -59,7 +59,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-          Year Up <span>-&gt;</span>
+          Year Up 
           </h2>
           <p>Learn more about the professional training program I'm enrolled in!</p>
         </a>
@@ -71,7 +71,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-          Seattle Central College <span>-&gt;</span>
+          Seattle Central College
           </h2>
           <p>Learn more about where I take my courses for Application Development!</p>
         </a>
@@ -83,7 +83,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            JPMC Chase <span>-&gt;</span>
+            JPMC Chase 
           </h2>
           <p>
           Learn more about the company I'm interning for currently!
