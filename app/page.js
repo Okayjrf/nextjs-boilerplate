@@ -47,9 +47,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-          About Me 
+          "About Me" <span>-&gt;</span>
           </h2>
-          <p>Learn more about who I am and how I got here.</p>
+          <p>"Learn more about who I am and how I got here."</p>
         </a>
 
         <a
@@ -59,9 +59,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-          Year Up 
+         "Year Up" <span>-&gt;</span>
           </h2>
-          <p>Learn more about the professional training program I'm enrolled in!</p>
+          <p>"Learn more about the professional training program I'm enrolled in!"</p>
         </a>
 
         <a
@@ -71,9 +71,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-          Seattle Central College
+          "Seattle Central College" <span>-&gt;</span>
           </h2>
-          <p>Learn more about where I take my courses for Application Development!</p>
+          <p>"Learn more about where I take my courses for Application Development!"</p>
         </a>
 
         <a
@@ -83,10 +83,10 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            JPMC Chase 
+            "JPMC Chase" <span>-&gt;</span>
           </h2>
           <p>
-          Learn more about the company I'm interning for currently!
+          "Learn more about the company I'm interning for currently!"
           </p>
         </a>
       </div>
